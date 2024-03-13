@@ -12,7 +12,7 @@
 ### **마음마중물**     [git](https://github.com/Storkycold/DataCampus8)
 
 
-### **빅데이터 분석**     [git](https://github.com/silver0-stack/shareDay.git)
+### **쉐어데이**     [git](https://github.com/silver0-stack/shareDay.git)
 
 📌 전공 과제 
 <!--
