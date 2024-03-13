@@ -7,7 +7,7 @@
 ### **메이플**     [git]( )
 소프트웨어융합과 졸업프로젝트
 
-### **빅데이터 분석**     [git]( )
+### **빅데이터 분석**     [paper](https://www.earticle.net/Article/A426100)
 
 ### **마음마중물**     [git](https://github.com/Storkycold/DataCampus8)
 
