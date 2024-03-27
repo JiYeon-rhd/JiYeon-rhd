@@ -23,9 +23,8 @@
 
 <!--### **쉐어데이**     [git](https://github.com/silver0-stack/shareDay.git)-->
 
-### **전공 아카이브** 
-<!--[git](https://github.com/JiYeon-rhd/Archive)-->
-- 자료구조, 알고리즘, 기계학습, 빅데이터 분석과 같은 전공 수업의 과제 및 프로젝트 모음집
+### **전공 아카이브** [git](https://github.com/JiYeon-rhd/Archive)
+- 자료구조, 알고리즘, 기계학습, 빅데이터 분석 등 전공 수업의 과제 및 프로젝트 모음집
 <!--
 **JiYeon-rhd/JiYeon-rhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
